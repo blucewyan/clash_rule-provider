@@ -1,14 +1,15 @@
 payload:
-  # > Self常用直连站
-  - DOMAIN-SUFFIX,snapdrop.net,DIRECT  #网页隔空传送
-  - DOMAIN-SUFFIX,yolanda.ml,DIRECT  #EU2238XUI
-  - DOMAIN-KEYWORD,weibocdn,DIRECT
-  - DOMAIN-KEYWORD,weibo,DIRECT
-  - DOMAIN-KEYWORD,gitee,DIRECT
-  - DOMAIN-KEYWORD,alicdn,DIRECT
-  - DOMAIN-SUFFIX,ddys.tv,DIRECT
-  - DOMAIN-SUFFIX,netflix.wang,DIRECT    ##鸭奈飞影视
-  - DOMAIN-SUFFIX,speedtest.cn,DIRECT
+  # > Self常用直连站 
+  #   - DOMAIN-SUFFIX,citicbank.com
+  - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
+  - DOMAIN-SUFFIX,yolanda.ml  #EU2238XUI
+  - DOMAIN-KEYWORD,weibocdn
+  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,gitee
+  - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-SUFFIX,ddys.tv
+  - DOMAIN-SUFFIX,netflix.wang    ##鸭奈飞影视
+  - DOMAIN-SUFFIX,speedtest.cn
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
 #  - IP-CIDR6,2001:67c:4e8::/48,no-resolve
