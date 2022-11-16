@@ -3,6 +3,7 @@ payload:
   #   - DOMAIN-SUFFIX,citicbank.com
   - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
   - DOMAIN-SUFFIX,yolanda.ml  #EU2238XUI
+  - DOMAIN-SUFFIX,alibabausercontent.com 
   - DOMAIN-KEYWORD,weibocdn
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,gitee
