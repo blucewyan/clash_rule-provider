@@ -8,6 +8,7 @@ payload:
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,gitee
   - DOMAIN-KEYWORD,alicdn
+  - DOMAIN-KEYWORD,taobao
   - DOMAIN-SUFFIX,ddys.tv
   - DOMAIN-SUFFIX,netflix.wang    ##鸭奈飞影视
   - DOMAIN-SUFFIX,speedtest.cn
