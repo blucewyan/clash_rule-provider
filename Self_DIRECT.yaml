@@ -1,14 +1,14 @@
 payload:
   # > Self常用直连站 
   #   - DOMAIN-SUFFIX,citicbank.com
-  - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
-  - DOMAIN-SUFFIX,yolanda.ml  #EU2238XUI
-  - DOMAIN-SUFFIX,alibabausercontent.com 
   - DOMAIN-KEYWORD,weibocdn
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,gitee
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,taobao
+  - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
+  - DOMAIN-SUFFIX,yolanda.ml  #EU2238XUI
+  - DOMAIN-SUFFIX,alibabausercontent.com 
   - DOMAIN-SUFFIX,ddys.tv
   - DOMAIN-SUFFIX,netflix.wang    ##鸭奈飞影视
   - DOMAIN-SUFFIX,speedtest.cn
