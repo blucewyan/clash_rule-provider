@@ -15,6 +15,6 @@ payload:
   - DOMAIN-SUFFIX,workers.dev
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
-  - IP-CIDR,47.246.103.0/24,no-resolve
+#  - IP-CIDR,47.246.103.0/24,no-resolve
 #  - IP-CIDR6,2001:67c:4e8::/48,no-resolve
 #  - IP-CIDR6,2a0a:f280::/32,no-resolve
