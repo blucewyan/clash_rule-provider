@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,netflix.wang    ##鸭奈飞影视
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,workers.dev
+  - DOMAIN-SUFFIX,arp220.us
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
 #  - IP-CIDR,47.246.103.0/24,no-resolve
