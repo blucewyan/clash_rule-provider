@@ -14,6 +14,8 @@ payload:
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,workers.dev
   - DOMAIN-SUFFIX,arp220.us
+  - DOMAIN-SUFFIX,meishij.net
+  - DOMAIN-SUFFIX,xinshipu.com
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
 #  - IP-CIDR,47.246.103.0/24,no-resolve
