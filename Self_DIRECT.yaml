@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,arp220.us
   - DOMAIN-SUFFIX,meishij.net
   - DOMAIN-SUFFIX,xinshipu.com
+  - DOMAIN-SUFFIX,52sf.ga
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
 #  - IP-CIDR,47.246.103.0/24,no-resolve
