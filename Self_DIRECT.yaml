@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,xinshipu.com
   - DOMAIN-SUFFIX,52sf.ga
   - DOMAIN-SUFFIX,xiaoya.pro
+  - DOMAIN-SUFFIX,ping.pe
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
 #  - IP-CIDR,47.246.103.0/24,no-resolve
