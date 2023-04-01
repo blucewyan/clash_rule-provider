@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,netflix.wang    ##鸭奈飞影视
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-SUFFIX,arp220.us
   - DOMAIN-SUFFIX,meishij.net
   - DOMAIN-SUFFIX,xinshipu.com
   - DOMAIN-SUFFIX,52sf.ga
