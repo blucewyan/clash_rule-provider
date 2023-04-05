@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,ping.pe
   - DOMAIN-SUFFIX,ttttt.link    ##钛盘
   - DOMAIN-SUFFIX,vxtrans.com   ##钛盘上传
+  - DOMAIN-SUFFIX,njki109.tk
 
 # ex:  - IP-CIDR,91.105.192.0/23,no-resolve
 #  - IP-CIDR,47.246.103.0/24,no-resolve
