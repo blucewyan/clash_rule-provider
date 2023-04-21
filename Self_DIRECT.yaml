@@ -6,7 +6,7 @@ payload:
   - DOMAIN-KEYWORD,gitee
   - DOMAIN-KEYWORD,alicdn
   - DOMAIN-KEYWORD,taobao
-  - DOMAIN-KEYWORD,otoou
+ # - DOMAIN-KEYWORD,otoou
   - DOMAIN-KEYWORD,ddys
   - DOMAIN-KEYWORD,xiaohongshu
   - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
