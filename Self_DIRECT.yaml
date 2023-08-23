@@ -8,8 +8,9 @@ payload:
   - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,freevod
   - DOMAIN-KEYWORD,ddys
-  #- DOMAIN-KEYWORD,emby.ws
   - DOMAIN-KEYWORD,xiaohongshu
+  - DOMAIN--SUFFIX,emby.ws
+  - DOMAIN--SUFFIX,emby.eu.org
   - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
   - DOMAIN-SUFFIX,alibabausercontent.com 
   - DOMAIN-SUFFIX,ddys.tv
