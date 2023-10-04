@@ -10,7 +10,7 @@ payload:
   - DOMAIN-KEYWORD,ddys
   - DOMAIN-KEYWORD,xiaohongshu
   - DOMAIN-SUFFIX,emby.ws
-  - DOMAIN-SUFFIX,emby.pro
+#  - DOMAIN-SUFFIX,emby.pro
   - DOMAIN-SUFFIX,mulgore.net
   - DOMAIN-SUFFIX,misty.ltd
   - DOMAIN-SUFFIX,snapdrop.net  #网页隔空传送
