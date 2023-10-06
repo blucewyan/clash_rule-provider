@@ -1,14 +1,14 @@
 payload:
   # > Self常用直连站 
   #   - DOMAIN-SUFFIX,citicbank.com
-  - DOMAIN-KEYWORD,weibocdn
-  - DOMAIN-KEYWORD,weibo
+#  - DOMAIN-KEYWORD,weibocdn
+#  - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,gitee
-  - DOMAIN-KEYWORD,alicdn
-  - DOMAIN-KEYWORD,taobao
+#  - DOMAIN-KEYWORD,alicdn
+#  - DOMAIN-KEYWORD,taobao
   - DOMAIN-KEYWORD,freevod
   - DOMAIN-KEYWORD,ddys
-  - DOMAIN-KEYWORD,xiaohongshu
+#  - DOMAIN-KEYWORD,xiaohongshu
   - DOMAIN-SUFFIX,emby.ws
   - DOMAIN-SUFFIX,bgka.me
   - DOMAIN-SUFFIX,mulgore.net
